@@ -1,0 +1,34 @@
+body {
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+  .duzy-kwadrat{
+    position: relative;
+    width: 1000px;
+    height: 600px;
+    background-color:lightblue;
+  }
+  
+ 
+
+.icon-youtube-play{
+font-size: 30px;
+color: #000;
+}
+.icon-twitch{
+font-size: 30px;
+color: #000;
+}
+.icon-twitter-squared{
+font-size: 30px;
+color: #000;
+}
+.icon-facebook-squared{
+font-size: 30px;
+color: #000;
+}
